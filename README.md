@@ -1,5 +1,5 @@
-### Olá! Eu sou a Renata Santos 👋
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/renata-santos-58a791156/)
+### Olá! 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-santos-58a791156/)
 
 
 ![Renata GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-Santos&show_icons=true&theme=radical)

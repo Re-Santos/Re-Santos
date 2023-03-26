@@ -11,6 +11,8 @@
 <div style="display: inline_block"><br/>
    <img aling="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img aling="center" alt="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   ![image](https://user-images.githubusercontent.com/123095086/227782192-c0b3981b-a38e-492b-968b-47c228d34122.png)
+
 </div><br/>
 
 ## Contato
